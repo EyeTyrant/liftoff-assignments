@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Catalog app to allow users to log in and choose a collection type to manage their collection.
+Collector is a cataloging application which allows users to log in and choose a collection type that will display a corresponding form where they can record and manage the items in their collection.
 ### Features
 Allow users to log in, choose a collection type, add, update, and list collection data.
 ### Technologies
