@@ -15,5 +15,5 @@ Java Spring Boot, Hibernate, and mySQL back end. Angular, Bootstrap front end.
 ### What I'll Have to Learn
 Angular forms and HTTP modules for form verification and API connections. Java user log in authentication.
 ### Project Tracker
-Link
-https://trello.com/b/Ct44YAtL
+
+* https://trello.com/b/Ct44YAtL
