@@ -17,5 +17,5 @@ https://trello.com/b/Ct44YAtL/collector
 
 ### Project Repo Link
 
-https://github.com/EyeTyrant/collectorFrontEnd
-https://github.com/EyeTyrant/collectorBackEnd
+* https://github.com/EyeTyrant/collectorFrontEnd
+* https://github.com/EyeTyrant/collectorBackEnd
