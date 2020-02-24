@@ -8,13 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* https://github.com/EyeTyrant/collectorFrontEnd/tree/dieCastInputForm/src/wireframes
-* https://github.com/EyeTyrant/collectorFrontEnd/blob/dieCastInputForm/src/wireframes/collectorSingle.pdf
-* https://github.com/EyeTyrant/collectorFrontEnd/blob/dieCastInputForm/src/wireframes/collectorSingleSideBar.pdf
-* https://github.com/EyeTyrant/collectorFrontEnd/blob/dieCastInputForm/src/wireframes/collectorLogin.pdf
-* https://github.com/EyeTyrant/collectorFrontEnd/blob/dieCastInputForm/src/wireframes/collectorHome.pdf
-* https://github.com/EyeTyrant/collectorFrontEnd/blob/dieCastInputForm/src/wireframes/collectorAdd.pdf
-* https://github.com/EyeTyrant/collectorFrontEnd/blob/dieCastInputForm/src/wireframes/collectorList.pdf
+* https://github.com/EyeTyrant/liftOffProject/tree/master/wireframes
+* https://github.com/EyeTyrant/liftOffProject/blob/master/wireframes/collectorSingle.pdf
+* https://github.com/EyeTyrant/liftOffProject/blob/master/wireframes/collectorSingleSideBar.pdf
+* https://github.com/EyeTyrant/liftOffProject/blob/master/wireframes/collectorLogin.pdf
+* https://github.com/EyeTyrant/liftOffProject/blob/master/wireframes/collectorHome.pdf
+* https://github.com/EyeTyrant/liftOffProject/blob/master/wireframes/collectorAdd.pdf
+* https://github.com/EyeTyrant/liftOffProject/blob/master/wireframes/collectorList.pdf
 
 ### Project Tracker
 
@@ -22,5 +22,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-* https://github.com/EyeTyrant/collectorFrontEnd
-* https://github.com/EyeTyrant/collectorBackEnd
+* https://github.com/EyeTyrant/liftOffProject
