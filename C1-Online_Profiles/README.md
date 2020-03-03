@@ -13,6 +13,4 @@ For this assignment you will need to upload your resume and provide links to you
 * https://www.linkedin.com/in/jeff-gockel-aa17951a3/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+[Resume PDF](https://github.com/EyeTyrant/liftoff-assignments/blob/master/C1-Online_Profiles/Jeff%20Gockel%20LaunchCode%20Resume'.pdf)
