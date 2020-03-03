@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume and provide links to you
 * https://www.linkedin.com/in/jeff-gockel-aa17951a3/
 
 ### Resume
-[Resume PDF](https://github.com/EyeTyrant/liftoff-assignments/blob/master/C1-Online_Profiles/Jeff%20Gockel%20LaunchCode%20Resume'.pdf)
+* [Resume PDF](https://github.com/EyeTyrant/liftoff-assignments/blob/master/C1-Online_Profiles/Jeff%20Gockel%20LaunchCode%20Resume'.pdf)
