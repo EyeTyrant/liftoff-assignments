@@ -11,7 +11,12 @@ Collector is a cataloging application which allows users to log in and choose a 
 ### Features
 Allow users to log in, choose a collection type, then add, update, or search and sort their list collection data.
 ### Technologies
-Java Spring Boot, Hibernate, and mySQL back end. Angular, Bootstrap front end.
+* Java
+* Spring Boot
+* Hibernate
+* MySQ
+* Angular
+* Bootstrap
 ### What I'll Have to Learn
 * Angular Forms module form validation
 * Angular HTTP module API connections
