@@ -13,7 +13,9 @@ Allow users to log in, choose a collection type, then add, update, or search and
 ### Technologies
 Java Spring Boot, Hibernate, and mySQL back end. Angular, Bootstrap front end.
 ### What I'll Have to Learn
-Angular forms and HTTP modules for form verification and API connections. Java user log in authentication. Project deployment to a website.
+* Angular Forms module form validation
+* Angular HTTP module API connections
+* Java user log in authentication
+* Project deployment to a website.
 ### Project Tracker
-
 * [Collector Project Trello Board](https://trello.com/b/Ct44YAtL)
