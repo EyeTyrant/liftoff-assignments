@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Collector is a cataloging application which allows users to log in and choose a collection type to display a corresponding form where they can display and manage a list of the items in their collection.
+Collector is a cataloging application allowing users to log in and choose a collection type to display a corresponding interactive list where they can manage the items in their individual collections.
 ### Features
 Allow users to log in, choose a collection type, then add, update, or search and sort their collection data.
 ### Technologies
