@@ -7,19 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Collector is a cataloging application which allows users to log in and choose a collection type that will display a corresponding form where they can record, manage, and display a list of the items in their collection.
+Collector is a cataloging application which allows users to log in and choose a collection type to display a corresponding form where they can display and manage a list of the items in their collection.
 ### Features
-Allow users to log in, choose a collection type, then add, update, or search and sort their list collection data.
+Allow users to log in, choose a collection type, then add, update, or search and sort their collection data.
 ### Technologies
 * Java
 * Spring Boot
 * Hibernate
 * MySQ
-* Angular
+* Angular and Angular Material
 * Bootstrap
 ### What I'll Have to Learn
 * Angular Forms module form validation
 * Angular HTTP module API connections
+* Angular Material
 * Java user log in authentication
 * Project deployment to a website.
 ### Project Tracker
